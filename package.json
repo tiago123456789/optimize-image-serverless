@@ -1,0 +1,15 @@
+{
+  "name": "OPTIMIZE_IMAGE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "deploy": "serverless deploy -v --aws-profile tiago_rosa_da_costa"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.25.4"
+  }
+}
